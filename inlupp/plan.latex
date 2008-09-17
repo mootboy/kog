@@ -33,13 +33,21 @@ DV: Antalet igenkända objekt.
 IV: Mängden objekt som presenteras. Tiden som förlöper mellan inlärning och återberättande. Tiden man har att lära in objekten. 
 
 CV: Kontrollvariabler, finns det saker som påverkar?
+\begin{itemize}
+\item{ . }
+\item{ . }
+\item{ . }
+\item{ . }
+\item{ . }
+\item{ . }
+\end{itemize}
 
 \subsection{Metod}
-Två grupper om 15 personer vardera, den ena gruppen får i uppgift att memorera en samling om tio bilder under två minuter, den andra en samling med tio ord. Efter en (inte ännu avgjord) pausperiod testas personerna på hur många av objekten (ord/bild) de kommer ihåg. Efter ännu en period testas de igen.
+Vi tänker använda oss av två testgrupper om 10--15 personer vardera. Den ena gruppen får studera en grupp med 15 ord under 30 sekunder. Orden är arrangerade i en matris med tre ord per rad i fem rader. Efter studieperioden distraheras deltagaren genom att få besvara frågor angående vad personen gjort under dagen, arbetssituation etc för att försvåra för deltagaren att repetera orden för sig själv. Efter två minuter av distraktion ber försöksledaren deltagaren recitera så många ord som möjligt. Detta moment begränsas också till en maximal tid av två minuter. Hela experimentet spelas in av försöksledaren.
 
-Två varianter av testet:
+Andra gruppen utsätts för samma test, med skilladen att istället för ord är det bilder de ska försöka minnas, organisationen på bilderna är densamma som för orden, tre per rad, fem rader. Bilderna föreställer alla substantiv och är utvalda för att vara så fria från kringinformation som möjligt för att minimera både möjligheten att sätta det avbildade objektet i en kontext och möjligt distraherande ''brus''.
 
-Testpersonerna får ett ark med tio bilder på att studera under ett antal minuter, 
+I pilottestet använde vi samma avbildning av objekt på både bilder och ord, d.v.s. fanns det en bild på en lampa fanns ordet \emph{lampa} med på bladet med ord. Tanken är att ordlängd och association inte ska påverka resultatet mellan de två grupperna, här måste man dock hålla i åtanke att medan en person tolkar en bild som ''glödlampa'' kanske en annan tolkar samma bild som bara ''lampa''.
 
 \begin{itemize}
 \item{30 sekunder inlärning}

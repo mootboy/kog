@@ -1,0 +1,51 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[swedish]{babel}
+\usepackage{xspace}
+                             % du kan ta bort raden om ...
+\usepackage[dvips]{graphicx} % ... du inte behöver grafik
+\usepackage{url}             % ... du inte behöver länkar
+\usepackage{color}           % ... du inte behöver färger
+
+% Avkommentera raden under om du vill ...
+% \usepackage{times}         % ... byta font till Times
+% \usepackage{palatino}      % ... byta font till Palatino
+% \usepackage{charter}       % ... byta font till Charter
+
+\title{Grupp 3 undersökningsplan}
+\author{KOG Grupp 3}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Inledning och hypotes}
+Ämne: Skillnad mellan korttidsminne för objekt presenterade som bilder respektive ord.
+
+Hypotesen är att det är lättare att minnas fler föremål om de presenteras visuellt än om de är nedskrivna. Detta pga: ....
+
+\section{Metod}
+Laboratory Experiment, kontrollerad miljö
+
+\subsection{Variabler}
+DV: Antalet igenkända objekt.
+
+IV: Mängden objekt som presenteras. Tiden som förlöper mellan inlärning och återberättande. Tiden man har att lära in objekten. 
+
+CV: Kontrollvariabler, finns det saker som påverkar?
+
+\subsection{Metod}
+Två grupper om 15 personer vardera, den ena gruppen får i uppgift att memorera en samling om tio bilder under två minuter, den andra en samling med tio ord. Efter en (inte ännu avgjord) pausperiod testas personerna på hur många av objekten (ord/bild) de kommer ihåg. Efter ännu en period testas de igen.
+
+Två varianter av testet:
+
+Testpersonerna får ett ark med tio bilder på att studera under ett antal minuter, 
+
+\begin{itemize}
+\item{30 sekunder inlärning}
+\item{2 minuter störning}
+\item{2 minuter uppläsning}
+\end{itemize}
+\subsection{Material}
+
+\end{document}

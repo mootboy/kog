@@ -19,31 +19,37 @@
 \begin{document}
 \maketitle
 
-\section{Inledning och hypotes}
+\section{Inledning}
+\textbf{BAKGRUND!!!}
+
+\subsection{Frågeställning och hypotes}
 Skillnaden i antal föremål en person kan hålla i korttidsminnet kan vara beroende på om föremålen presenteras som bilder eller skrivna ord eftersom olika centra i hjärnan ansvarar för informationsbehandligen. Spontant vill vi gärna tro att det är lättare att minnas visuell information än språklig och hypotesen blir därmed att det är lättare att minnas fler föremål om de presenteras visuellt än om de är nedskrivna.
 
 \section{Metod}
-%\subsection{Metod}
+\subsection{Genomförande}
 Vi tänker använda oss av två testgrupper om 10--15 personer vardera. Den ena gruppen får studera en karta med 15 substantiv under 60 sekunder. Orden är arrangerade i en matris med tre ord per rad i fem rader. Efter studieperioden distraheras deltagaren genom att få besvara frågor angående vad personen gjort under dagen, arbetssituation etc för att försvåra för deltagaren att repetera orden för sig själv. Efter två minuter av distraktion ber försöksledaren deltagaren recitera så många ord som möjligt. Detta moment begränsas också till en maximal tid av två minuter. Hela experimentet spelas in av försöksledaren.
 
 Andra gruppen utsätts för samma test, med skilladen att istället för ord är det bilder de ska försöka minnas, organisationen på bilderna är densamma som för orden, tre per rad, fem rader. Bilderna är fotografiska och föreställer alla samma föremål som orden representerar. De är utvalda för att vara så fria från kringinformation som möjligt för att minimera både möjligheten att sätta det avbildade objektet i en kontext och möjligt distraherande ''brus''.
 
-Miljön bör vara så fri från störningsmoment som möjligt, men på grund av sammanhanget försöket utförs i är det inte troligt att vi kan genomföra det under perfekta laboratorieförhållanden. Vi kommer försöka hitta försökspersoner som är studenter på DSV i Kista.
-
 I pilottestet använde vi samma avbildning av objekt på både bilder och ord, d.v.s. fanns det en bild på en lampa fanns ordet \emph{lampa} med på bladet med ord. Tanken är att ordlängd och association inte ska påverka resultatet mellan de två grupperna, här måste man dock hålla i åtanke att medan en person tolkar en bild som ''glödlampa'' kanske en annan tolkar samma bild som bara ''lampa''. Ordlängden skall enligt Baddeley (1975) inte spela någon roll vid visuell information, men vi vill ändå försöka minimera variationen.
 
-\subsection{Variabler}
-Variabeln vi mäter är antalet ord försökspersonerna kommer ihåg efter en tid av distraktion.
+\subsection{Metodteori}
 
-Oberoende variabler, variabler vi antar påverkar resultatet är bland andra:
+\subsection{Variabler}
+\subsubsection{Beroende variabel}
+Mängden information testdeltagarna har tillgängligt i minnet vid recitationen, dvs arbetsminnets storlek avseende de två olika typerna informationsrepresentation vi valt.
+
+\subsubsection{Oberoende variabler}
 \begin{itemize}
 \item{Mängden objekt som presenteras}
 \item{Tiden som förflyter mellan inlärning och repetition}
 \item{Inlärningstid}
-\item{Ordlängd}
+\item{Miljö}
 \end{itemize}
+Mängden objekt som presenteras bör påverka framförallt kvoten mot de icke ihågkomna men det kan finnas en möjlighet att en större mängd ord ''stör ut'' och distraherar deltagaren under inlärningen. Inlärningstiden bör vara kort för att förhindra att försökspersonen hinner kategorisera eller använda andra minnestekniker för att hjälpa minnet. Miljön bör vara så fri från störningsmoment som möjligt, men på grund av sammanhanget försöket utförs i är det inte troligt att vi kan genomföra det under perfekta laboratorieförhållanden. 
 
-På grund av undersökningens förhållanden finns det ett antal variabler vi inte har tid eller resurser att påverka, de rör sig om saker som:
+\subsubsection{Kontrollvariabler}
+På grund av undersökningens förhållanden finns det ett antal variabler vi inte har tid eller resurser att påverka eller ej har full kontroll över:
 \begin{itemize}
 \item{Ålder}
 \item{Kön}
@@ -51,5 +57,10 @@ På grund av undersökningens förhållanden finns det ett antal variabler vi in
 \item{Social bakgrund}
 \item{Eventuell känslomässig koppling till föremålen}
 \end{itemize}
+Vi tänker använda oss av ett frågeformulär för att i största möjliga mån avgöra om dessa variabler påverkar utgången av försöket. Variationen i testpopulationen avseende ålder blir troligtvis inte stor eftersom vi i första hand tänker försöka använda oss av studenter på DSV. Frågor om social bakgrund, ursprung påverkar framförallt testet på de lästa orden; om det finns ord som försökspersonen inte är bekant med kan de vara svårare att lära sig (ref?). Valen av föremål är gjorda med detta i åtanke för att i möjligaste mån minimera sådana effekter, de ska vara vardagsföremål som uppfattas netrala av de flesta. Eventuell känslomässig koppling till orden är betydligt svårare att avgöra då sådant sällan är helt medvetet och svårt att mäta.
+
+\subsection{material}
+
+\section{Frågeformulär}
 
 \end{document}

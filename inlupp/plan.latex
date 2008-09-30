@@ -25,7 +25,11 @@ Linus Harling}
 
 \section{Inledning}
 \subsection{Bakgrund}
-Santa (1977) visade experimentellt att människor verkar tendera att representera textuell information sekventiellt, medans figurer verkade lättare att minnas spatiellt, något som tyder på att olika centra kopplas in vid behandlingen. Miller (1956) kom fram till de flesta klarar att minnas 7+-2 objekt, något som Baddeley (1977) kritiserade och utvecklade på när han formulerade sin teori om arbetsminnet och dess funktion. Vi har inte lyckats hitta någon undersökning av hur väl man minns bilder i jämförelse med ord, men har Miller rätt bör det inte vara någon skillnad. Baddeleys forskning kring den fonologiska loopen däremot tyder på att när man hör ord är det svårare att komma ihåg fler långa ord än korta. Vi vill försöka undersöka om det finns en sådan skillnad mellan information presenterad som bilder gentemot ord. Skillnaden i antal föremål en person kan hålla i korttidsminnet kan vara beroende på om föremålen presenteras som bilder eller skrivna ord eftersom olika centra i hjärnan verkar ansvara för informationsbehandligen. 
+Santa (1977) visade experimentellt att människor verkar tendera att representera textuell information sekvensiellt, medan figurer verkade lättare att minnas spatiellt, något som tyder på att olika centra kopplas in vid behandlingen. Miller (1956) kom fram till de flesta klarar att minnas 7+-2 objekt, något som Baddeley (1977) kritiserade och utvecklade på när han formulerade sin teori om arbetsminnet och dess funktion. Vi har inte lyckats hitta någon undersökning av hur väl man minns bilder i jämförelse med ord, men har Miller rätt bör det inte vara någon skillnad. Baddeleys forskning kring den fonologiska loopen däremot tyder på att när man hör ord är det svårare att komma ihåg fler långa ord än korta. Vi vill försöka undersöka om det finns en sådan skillnad mellan information presenterad som bilder gentemot ord. Skillnaden i antal föremål en person kan hålla i korttidsminnet kan vara beroende på om föremålen presenteras som bilder eller skrivna ord eftersom olika centra i hjärnan verkar ansvara för informationsbehandligen. 
+
+Både Baddeleys och Millers undersökningar avviker dock från vår valda väg i att de rör serialiserad information, de presenterade en serie objekt, ett efter det andra under en kort tidsperiod. Eftersom våra försökspersoner får informationen som en karta och därmed ''väljer'' vilka objekt de vill fokusera på kan det uppstå en variation i hur mycket uppmärksamhet de ägnar de olika objekten. Vi hamnar därmed närmre Santas forskning, vilket är i linje med vår fokus på det visuella minnet till skillnad från det auditoriska. 
+
+Bower, Karlin och Dueck (1975) tittade på minnets påverkan av vår förmåga att koppla bilder till innebörd och sammanhang. De fann att teckningar som var lätta att konstruera en innebörd för var lättare att minnas, \textbf{MERA}
 
 \subsection{Frågeställning}
 Kan människor hålla fler föremål i korttidsminnet när de presenteras som bilder än som ord?
@@ -36,7 +40,7 @@ Vår hypotes är att det är lättare att komma ihåg ett antal bilder, detta ba
 \section{Metod}
 
 \subsection{Metodologi}
-Undersökningen är en experimentell kvantitativ laboratorieundersökning.
+Undersökningen är en experimentell kvantitativ laboratorieundersökning. Dock finns det möjlighet för viss kvalitativ analys eftersom ljudinspelningar av hela experimentet kommer finnas.
 
 \subsection{Genomförande}
 Vi tänker använda oss av två testgrupper om 10--15 personer vardera. Den ena gruppen får studera en karta med 15 substantiv under 60 sekunder. Orden är arrangerade i en matris med tre ord per rad i fem rader. Efter studieperioden distraheras deltagaren genom att få besvara en muntlig enkät för att försvåra för deltagaren att repetera orden för sig själv. Efter två minuter av distraktion ber försöksledaren deltagaren recitera så många ord som möjligt. Detta moment begränsas också till en maximal tid av två minuter. Hela experimentet spelas in av försöksledaren.
@@ -57,6 +61,10 @@ Vi kommer att tillfråga studenter vid DSV att delta i undersökningen. Försök
 Mängden information testdeltagarna har tillgängligt i minnet vid recitationen, dvs arbetsminnets storlek avseende de två olika typerna informationsrepresentation vi valt.
 
 \subsubsection{Oberoende variabler}
+Våra oberoende variabler är objekten representerade som bilder respektive ord. De båda är organiserade i samma ordning och efter samma mönster (se material).
+
+\subsubsection{Kontrollvariabler}
+
 \begin{itemize}
 \item{Mängden objekt som presenteras}
 \item{Tiden som förflyter mellan inlärning och repetition}
@@ -65,14 +73,12 @@ Mängden information testdeltagarna har tillgängligt i minnet vid recitationen,
 \end{itemize}
 Mängden objekt som presenteras bör påverka framförallt kvoten mot de icke ihågkomna men det kan finnas en möjlighet att en större mängd ord ''stör ut'' och distraherar deltagaren under inlärningen. Inlärningstiden bör vara kort för att förhindra att försökspersonen hinner kategorisera eller använda andra minnestekniker för att hjälpa minnet. Miljön bör vara så fri från störningsmoment som möjligt, men på grund av sammanhanget försöket utförs i är det inte troligt att vi kan genomföra det under perfekta laboratorieförhållanden. 
 
-\subsubsection{Kontrollvariabler}
 På grund av undersökningens förhållanden finns det ett antal variabler vi inte har tid eller resurser att påverka eller ej har full kontroll över:
 \begin{itemize}
 \item{Ålder}
 \item{Kön}
 \item{Nationalitet / Ursprung}
 \item{Social bakgrund}
-\item{Eventuell känslomässig koppling till föremålen}
 \end{itemize}
 Vi tänker använda oss av ett frågeformulär för att i största möjliga mån avgöra om dessa variabler påverkar utgången av försöket. Variationen i testpopulationen avseende ålder blir troligtvis inte stor eftersom vi i första hand tänker försöka använda oss av studenter på DSV. Frågor om social bakgrund, ursprung påverkar framförallt testet på de lästa orden; om det finns ord som försökspersonen inte är bekant med kan de vara svårare att lära sig. Valen av föremål är gjorda med detta i åtanke för att i möjligaste mån minimera sådana effekter, de ska vara vardagsföremål som uppfattas netrala av de flesta. Eventuell känslomässig koppling till orden är betydligt svårare att avgöra då sådant sällan är helt medvetet och svårt att mäta.
 
